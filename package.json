@@ -2,7 +2,7 @@
   "name": "projfs11_js2",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://github.com/truam2019/ProjFS11_JS2.git",
+  "homepage": "https://github.com/truam2019/ProjFS11_JS2",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /ProjFS11_JS2/"
